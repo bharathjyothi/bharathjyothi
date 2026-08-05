@@ -33,12 +33,13 @@ bharath   Running   2y+      ∞        too-many   k8s/go/java
   no need to duplicate a project list here. Just pin them on GitHub.
 -->
 
-<!-- isometric 3D contribution calendar + stats, self-generated via Action. setup below. -->
+<!-- isometric 3D contribution calendar + stats, self-generated via Action. setup below.
 <p align="center">
   <img src="https://raw.githubusercontent.com/bharathjyothi/bharathjyothi/main/github-metrics.svg" />
-</p>
+</p> -->
 
-<!-- snake game: eats your contribution graph, animates on load. setup below. -->
+<!-- snake game: eats your contribution graph, animates on load. setup below. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bharathjyothi/bharathjyothi/output/github-contribution-grid-snake.svg" />
 </p>
+-->
